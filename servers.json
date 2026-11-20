@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "notes": {
+      "command": "${PYTHON}",
+      "args": ["servers/notes_server.py"]
+    },
+    "utils": {
+      "command": "${PYTHON}",
+      "args": ["servers/utils_server.py"]
+    }
+  }
+}
